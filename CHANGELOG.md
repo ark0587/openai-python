@@ -1,5 +1,20 @@
 # Changelog
 
+## 1.79.0 (2025-05-15)
+
+Full Changelog: [v1.78.1...v1.79.0](https://github.com/openai/openai-python/compare/v1.78.1...v1.79.0)
+
+### Features
+
+* **api:** manual updates ([25245e5](https://github.com/openai/openai-python/commit/25245e5e3d0713abfb65b760aee1f12bc61deb41))
+* **api:** responses x eval api ([fd586cb](https://github.com/openai/openai-python/commit/fd586cbdf889c9a5c6b9be177ff02fbfffa3eba5))
+
+
+### Chores
+
+* **ci:** fix installation instructions ([f26c5fc](https://github.com/openai/openai-python/commit/f26c5fc85d98d700b68cb55c8be5d15983a9aeaf))
+* **ci:** upload sdks to package manager ([861f105](https://github.com/openai/openai-python/commit/861f1055768168ab04987a42efcd32a07bc93542))
+
 ## 1.78.1 (2025-05-12)
 
 Full Changelog: [v1.78.0...v1.78.1](https://github.com/openai/openai-python/compare/v1.78.0...v1.78.1)
